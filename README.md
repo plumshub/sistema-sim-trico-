@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plumshub.COM
+- 👋 Hi, I’m @plumshub.com
 - 👀 I’m interested in ...  TODO   
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ... DESARROLLO 
